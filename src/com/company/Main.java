@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello World");
         System.out.println("Counting to 10");
+	System.out.println("Hello datamatikerer");    
 
         // Create Variable
         int i = 0;
